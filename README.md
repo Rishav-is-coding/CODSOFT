@@ -1,2 +1,2 @@
 # CODSOFT
-github repository for internship at codsoft web-development intern
+github repository for internship at codsoft as a web-development intern
