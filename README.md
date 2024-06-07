@@ -10,7 +10,7 @@ used buttons and links to navigate through page<br>
 Tried to make page responsive by adding links to other pages<br>
 <br>
 Project 2: Portfolio<br>
-
+Created a basic portfolio website using HTML and CSS<br>
 <br>
 Project 3:  Calculator<br>
 I have used HTML and CSS for frontend and JavaScript for handeling the logic<br>
