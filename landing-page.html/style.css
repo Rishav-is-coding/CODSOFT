@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 20px;
+}
+
+.section1{
+    background-image: url(images/image1.png);
+    background-position: 0% 15%;
+    height: 400px;
+}
+.section1div{
+    height: 400px;
+}
+
+.section2{
+    background-image: linear-gradient(to right,rgb(200, 219, 234),rgb(87, 143, 186)) ;
+    height: 150px;
+}
+.section2div{
+    height: 150px;
+}
+
+.section3{
+    background-image: url(images/worldmap.png);
+    background-position: 0%;
+    height: 400px;
+}
+.section3div{
+    height: 400px;
+}
+.section4{
+    background-image: url(images/worldmap.png);
+    background-position: 0%;
+    height: 400px;
+}
+
+.header{
+    background-color: rgb(222, 244, 237);
+}
+.button{
+    padding: 8px;
+    font-size: 1.5em;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color:  rgb(222, 244, 237);
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(178, 220, 207);
+    cursor: grab;
+}
+
+.button1{
+    margin-top: 1%;
+    background-color: rgb(103, 160, 191, 0.8);
+    cursor: pointer;
+}
+.button1:hover{
+    background-image: linear-gradient(to left, rgb(201, 223, 235), rgb(84, 146, 180) );
+    cursor: grab;
+}
+
+.button2{
+    margin-top: 1%;
+    border: 1px solid red;
+    background-color: rgb(154, 206, 231, 0.4);
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: rgb(154, 206, 231);
+    cursor: grab;
+}
+
+.button3{
+    padding: 3px;
+    font-size: 1em;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color:  rgb(122, 164, 189);
+    cursor: pointer;
+    margin-top: 1%;
+    margin-left: 35%;
+}
+.button3:hover{
+    background-color: rgb(71, 129, 165);
+}
+.sec2button{
+    border: none;
+    background-color: transparent;
+}
+.sec2button:hover{
+    border: 0.5px solid rgb(45, 134, 176);
+    border-radius: 8px;
+    background-color: rgb(198, 223, 235);
+}
+
+.main li{
+    list-style: none;
+    margin: 0 10px;
+}
+
+.sec3img{
+    float: right;
+    width: 10%;
+    margin-left: 80%;
+}
+img{
+    mix-blend-mode: multiply;
+}
+
+.wrapper{
+    
+    width: 70%;
+    
+}
+
+.box{
+    margin: 12px 22px;
+    min-width: 33vw;
+    border: 1px solid black;
+}
+.box ul{
+    list-style: none;
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+}
+
